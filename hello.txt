@@ -19,3 +19,5 @@ test pull
 test key
 
 test key push push
+
+你好你好 im testing my new ssh key
